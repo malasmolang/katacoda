@@ -1,4 +1,1 @@
-# katacoda
-# katacoda
-# katacoda
-# katacoda
+# This is a test file for Git learning
